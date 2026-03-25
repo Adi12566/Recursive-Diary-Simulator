@@ -61,7 +61,7 @@ GROQ_API_KEY = "your-groq-api-key"
 ## Usage
 
 ```bash
-streamlit run Storyteller.py
+streamlit run "Recursive Diary Simulator.py"
 ```
 
 Configure the simulation in the sidebar:
